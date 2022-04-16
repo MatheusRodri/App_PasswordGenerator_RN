@@ -10,7 +10,9 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@miblanchard/react-native-slider": "^2.1.0",
     "expo": "~44.0.0",
+    "expo-clipboard": "^2.1.1",
     "expo-status-bar": "~1.2.0",
     "react": "17.0.1",
     "react-dom": "17.0.1",
